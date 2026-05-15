@@ -31,18 +31,6 @@ Frontend: HTML5, CSS3, JavaScript (ES6+)
 Backend: Firebase Realtime Database
 Audio: MP3
 
-📂 Struttura Progetto
-├── index.html          # Pagina principale
-├── host.html           # Interfaccia host
-├── player.html         # Interfaccia giocatore
-├── css/
-│   └── style.css       # Stilizzazione
-├── js/
-│   ├── firebase.js     # Configurazione Firebase
-│   ├── host.js         # Logica host
-│   └── player.js       # Logica giocatore
-└── audio/              # Effetti sonori
-
 🚀 Quick Start
 
 Apri index.html in un browser moderno
