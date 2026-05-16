@@ -1,7 +1,7 @@
 ## 🎰 Tombola Online
 Un'applicazione web interattiva per giocare alla Tombola online con amici e familiari in tempo reale!
 
-##✨ Caratteristiche Principali
+## ✨ Caratteristiche Principali
 
 **🎯 Multiplayer in Real-Time:** Host che gestisce le estrazioni e giocatori connessi via Firebase
 
@@ -15,7 +15,7 @@ Un'applicazione web interattiva per giocare alla Tombola online con amici e fami
 
 **🔥 Sincronizzazione Live:** Database Firebase per aggiornamenti istantanei
 
-##🎮 Come Funziona
+## 🎮 Come Funziona
 
 1. Host avvia una partita e ottiene un codice di accesso.
 
@@ -26,7 +26,7 @@ Giocatori vedono i numeri evidenziati automaticamente sulla loro schedina.
 
 4. Il sistema rileva e notifica le vincite in real-time
 
-##🏆 Tipi di Vincite
+## 🏆 Tipi di Vincite
 
 - Ambo (2 numeri su una riga)
 - Terna (3 numeri su una riga)
@@ -34,13 +34,13 @@ Giocatori vedono i numeri evidenziati automaticamente sulla loro schedina.
 - Cinquina (5 numeri su una riga)
 - Tombola (tutti i 15 numeri)
 
-##🛠️ Stack Tecnologico
+## 🛠️ Stack Tecnologico
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 Backend: Firebase Realtime Database
 Audio: MP3
 
-##🚀 Quick Start
+## 🚀 Quick Start
 
 Apri index.html in un browser moderno
 Condividi il codice partita con gli amici!
