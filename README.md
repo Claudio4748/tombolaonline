@@ -3,17 +3,17 @@ Un'applicazione web interattiva per giocare alla Tombola online con amici e fami
 
 ##  Caratteristiche Principali
 
-** Multiplayer in Real-Time:** Host che gestisce le estrazioni e giocatori connessi via Firebase
+**Multiplayer in Real-Time:** Host che gestisce le estrazioni e giocatori connessi via Firebase
 
-** Generazione Casuale:** Schedine uniche generate proceduralmente per ogni giocatore
+**Generazione Casuale:** Schedine uniche generate proceduralmente per ogni giocatore
 
-** Effetti Sonori Immersivi:** Audio per estrazioni e vincite (Ambo, Terna, Quaterna, Cinquina, Tombola)
+**Effetti Sonori Immersivi:** Audio per estrazioni e vincite (Ambo, Terna, Quaterna, Cinquina, Tombola)
 
-** Interfaccia Responsiva:** Compatibile con desktop e dispositivi mobili
+**Interfaccia Responsiva:** Compatibile con desktop e dispositivi mobili
 
-** Zero Installazione:** Gioca direttamente dal browser
+**Zero Installazione:** Gioca direttamente dal browser
 
-** Sincronizzazione Live:** Database Firebase per aggiornamenti istantanei
+**Sincronizzazione Live:** Database Firebase per aggiornamenti istantanei
 
 ##  Come Funziona
 
